@@ -23,9 +23,9 @@ using Excel and Power BI.
 - DAX
 
 ## 📸 Dashboard Screenshots
-![Shopping_Trend_Analysis](screenshots/overview.png)
+![Shopping_Trend_Analysis](screenshots/Overview.png)
 
-![Shopping_Trend_Analysis](screenshots/customer_Analysis.png)
+![Shopping_Trend_Analysis](screenshots/Customer_Analysis.png)
 
 ![Shopping_Trend_Analysis](screenshots/Promo_&_Subscription.png)
 
