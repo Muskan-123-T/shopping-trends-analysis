@@ -32,3 +32,5 @@ using Excel and Power BI.
 ![Project_Shopping_Analysis](screenshots/Category_&_Season.png)
 
 ![Project_Shopping_Analysis](screenshots/Insights_&_Recommendations.png)
+
+![Project_Shopping_Analysis](Overview.png)
