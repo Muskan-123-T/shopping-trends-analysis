@@ -23,12 +23,12 @@ using Excel and Power BI.
 - DAX
 
 ## 📸 Dashboard Screenshots
-![Shopping_Trend_Analysis](screenshots/Overview.png)
+![Project_Shopping_Analysis](screenshots/Overview.png)
 
-![Shopping_Trend_Analysis](screenshots/Customer_Analysis.png)
+![Project_Shopping_Analysis](screenshots/Customer_Analysis.png)
 
-![Shopping_Trend_Analysis](screenshots/Promo_&_Subscription.png)
+![Project_Shopping_Analysis](screenshots/Promo_&_Subscription.png)
 
-![Shopping_Trend_Analysis](screenshots/Category_&_Season.png)
+![Project_Shopping_Analysis](screenshots/Category_&_Season.png)
 
-![Shopping_Trend_Analysis](screenshots/Insights_&_Recommendations.png)
+![Project_Shopping_Analysis](screenshots/Insights_&_Recommendations.png)
