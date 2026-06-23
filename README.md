@@ -33,4 +33,4 @@ using Excel and Power BI.
 
 ![Project_Shopping_Analysis](Insights_&_Recommendations.png)
 
-![Supply_Chain_Dashboard](Customer_Analysis.png)
+
